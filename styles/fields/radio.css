@@ -33,6 +33,7 @@ label + .radio-wrapper {
 
     width: 1.5rem;
     height: 1.5rem;
+    transition: all 0.175s ease-in-out;
 
     position: absolute;
     top: 0.5rem;
